@@ -2,8 +2,8 @@ package stepdefs;
 
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
-import cucumbertutorial.pages.HomePage;
-import cucumbertutorial.pages.LoginPage;
+import pages.HomePage;
+import pages.LoginPage;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;

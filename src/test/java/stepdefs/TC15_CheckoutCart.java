@@ -2,8 +2,8 @@ package stepdefs;
 
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
-import cucumbertutorial.pages.CheckoutPage;
-import cucumbertutorial.pages.HomePage;
+import pages.CheckoutPage;
+import pages.HomePage;
 import io.cucumber.java.en.*;
 
 public class TC15_CheckoutCart{

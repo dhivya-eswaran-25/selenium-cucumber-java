@@ -2,8 +2,8 @@ package stepdefs;
 
 import org.openqa.selenium.*;
 import org.testng.Assert;
-import cucumbertutorial.pages.HomePage;
-import cucumbertutorial.pages.CartPage;
+import pages.HomePage;
+import pages.CartPage;
 import io.cucumber.java.en.*;
 
 public class TC12_AddToCart{

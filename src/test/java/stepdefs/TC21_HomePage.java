@@ -2,7 +2,7 @@ package stepdefs;
 
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
-import cucumbertutorial.pages.HomePage;
+import pages.HomePage;
 import io.cucumber.java.en.*;
 
 public class TC21_HomePage {

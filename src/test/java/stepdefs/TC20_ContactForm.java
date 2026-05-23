@@ -5,8 +5,8 @@ import java.time.Duration;
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.support.ui.*;
 import org.testng.Assert;
-import cucumbertutorial.pages.HomePage;
-import cucumbertutorial.pages.ContactUsPage;
+import pages.HomePage;
+import pages.ContactUsPage;
 import io.cucumber.java.en.*;
 
 public class TC20_ContactForm {

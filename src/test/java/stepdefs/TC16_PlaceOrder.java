@@ -2,8 +2,8 @@ package stepdefs;
 
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
-import cucumbertutorial.pages.PaymentPage;
-import cucumbertutorial.pages.HomePage;
+import pages.PaymentPage;
+import pages.HomePage;
 import io.cucumber.java.en.*;
 
 public class TC16_PlaceOrder{

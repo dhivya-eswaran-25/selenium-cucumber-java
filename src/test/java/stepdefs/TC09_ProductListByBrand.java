@@ -3,8 +3,8 @@ package stepdefs;
 import java.util.*;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
-import cucumbertutorial.pages.HomePage;
-import cucumbertutorial.pages.ProductsPage;
+import pages.HomePage;
+import pages.ProductsPage;
 import io.cucumber.java.en.*;
 
 public class TC09_ProductListByBrand {

@@ -7,9 +7,9 @@ import java.util.List;
 import java.util.stream.Collectors;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
-import cucumbertutorial.pages.CheckoutPage;
-import cucumbertutorial.pages.PaymentPage;
-import cucumbertutorial.pages.HomePage;
+import pages.CheckoutPage;
+import pages.PaymentPage;
+import pages.HomePage;
 import io.cucumber.java.en.*;
 
 public class TC17_DownloadInvoice{

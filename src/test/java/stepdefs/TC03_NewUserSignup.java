@@ -2,8 +2,8 @@ package stepdefs;
 
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
-import cucumbertutorial.pages.HomePage;
-import cucumbertutorial.pages.SignupPage;
+import pages.HomePage;
+import pages.SignupPage;
 import io.cucumber.java.en.*;
 
 public class TC03_NewUserSignup {

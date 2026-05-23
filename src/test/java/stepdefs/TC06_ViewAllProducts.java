@@ -3,7 +3,7 @@ package stepdefs;
 import java.util.*;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
-import cucumbertutorial.pages.*;
+import pages.*;
 import io.cucumber.java.en.*;
 
 public class TC06_ViewAllProducts {

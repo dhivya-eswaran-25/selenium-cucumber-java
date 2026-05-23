@@ -13,7 +13,7 @@ import io.cucumber.junit.CucumberOptions;
     tags="@UAT"
     
 )
-public class Runner{
+public class TestRunner{
 
 }
 

@@ -2,8 +2,8 @@ package stepdefs;
 
 import org.openqa.selenium.*;
 import org.testng.Assert;
-import cucumbertutorial.pages.HomePage;
-import cucumbertutorial.pages.ProductDetailsPage;
+import pages.HomePage;
+import pages.ProductDetailsPage;
 import io.cucumber.java.en.*;
 
 public class TC10_ViewProductDetails{

@@ -7,8 +7,8 @@ import org.testng.Assert;
 import org.openqa.selenium.*;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import cucumbertutorial.pages.HomePage;
-import cucumbertutorial.pages.ProductsPage;
+import pages.HomePage;
+import pages.ProductsPage;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
