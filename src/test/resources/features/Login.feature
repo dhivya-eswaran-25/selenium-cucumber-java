@@ -3,7 +3,7 @@ Feature:Login functionality
 
 Background:
 Given User navigates to the login page
-@UAT
+@Sample
 Scenario Outline:Valid user Login
 And User enters valid username and password
 When User clicks the login button

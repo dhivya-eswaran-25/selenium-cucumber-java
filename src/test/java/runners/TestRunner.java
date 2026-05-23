@@ -10,7 +10,7 @@ import io.cucumber.testng.CucumberOptions;
     dryRun=false,
     glue={"stepdefs"},
     plugin={"pretty"},
-    tags="@UAT"
+    tags="@Sample"
     
 )
 public class TestRunner extends AbstractTestNGCucumberTests{
