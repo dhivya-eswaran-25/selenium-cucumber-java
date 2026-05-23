@@ -2,7 +2,7 @@ Feature:Contact us functionality
 
 Background:
 Given User navigates to the login page
-@Smoke
+
 Scenario Outline:Logged in user submits contact form with file
 And User enters valid username and password
 And User clicks the login button
@@ -17,7 +17,7 @@ And Click on home button
 Examples:
 |name|email|subject|message|
 |tester|abc@mail.com|Issue in order|I have not received the order|
-@Smoke
+
 Scenario Outline:Submit contact form without file
 When User navigates to the contact us page 
 Then Contact us page is displayed
