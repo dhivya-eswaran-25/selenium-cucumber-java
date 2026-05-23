@@ -1,1 +1,1 @@
-Maven+Cucumber+Selenium+GitHub Actions CI
+Java based UI automation framework using  Selenium +Cucumber
